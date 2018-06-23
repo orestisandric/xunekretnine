@@ -42,7 +42,7 @@ button:hover {
 .headerContainerDOWN {
 	margin-right: 10px;
 	display: flex;
-	flex: 1; 
+	flex: 1;
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-end;
@@ -150,7 +150,7 @@ li a:hover {
 	cursor: pointer;
 	/*outline: 1px dashed orange;*/
 }
-.left:hover, 
+.left:hover,
 .right:hover {
 	transform: scale(1.1);
 	transition: transform .5s;
@@ -166,7 +166,7 @@ li a:hover {
 }
 
 .mainpics {
-	
+
 	width: 100%;
 	height: 100%;
 }
@@ -197,7 +197,7 @@ li a:hover {
 	margin: 0 auto;
 	display: flex;
 	flex: 1;
-	
+
 }
 
 .signup {
@@ -248,7 +248,7 @@ li a:hover {
 	padding-left: 10px;
 	color: white;
 	align-items: center;
-}	
+}
 
 .folowus {
 	display: flex;
